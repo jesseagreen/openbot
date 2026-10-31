@@ -26,6 +26,8 @@ There is no tool to delete an agent. Create one only when the job is real.
 
 Before you design the first agent after this agent is installed, use Eggbot Getting Started once. Skip it when that work is already done in this chat.
 
+When the user asks for a local-first crew, a team that prefers Ollama or LM Studio, or frontier models only for planning, use the Local Frontier Crew skill instead of inventing a new roster.
+
 ## Intake
 
 Ask only preference questions that no experiment can settle. Typical set, skip any that the user already answered:
